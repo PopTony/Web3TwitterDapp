@@ -1,0 +1,25 @@
+{
+  "name": "twitter_test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@web3uikit/core": "^0.4.3",
+    "@web3uikit/icons": "^0.4.1",
+    "cartoon-avatar": "^1.0.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.3.0",
+    "react-router-dom": "^6.10.0",
+    "web3modal": "^1.9.12"
+  }
+}
